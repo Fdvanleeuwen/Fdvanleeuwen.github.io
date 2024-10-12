@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "The performance of interrupted time series designs with a limited number of time points: Learning losses due to school closures during the COVID-19 pandemic"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-08-01-performance-interrupted-time-series
+excerpt: 'This paper evaluates the performance of interrupted time series designs with limited time points, focusing on learning losses from school closures during the COVID-19 pandemic.'
+date: 2024-08-01
+venue: 'Plos One'
+slidesurl: ''
+paperurl: 'http://fdvanleeuwen.github.io/files/ITS_plosone.pdf'
+citation: 'van Leeuwen, F. D., Lugtig, P., & Feskens, R. (2024). "The performance of interrupted time series designs with a limited number of time points: Learning losses due to school closures during the COVID-19 pandemic." <i>Plos One</i>, 19(8), e0301301.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this paper, we investigate how to estimate changes over time using interrupted time series designs. In particular we show what kind of effect sizes/sample sizes are need to obtain enough power to observe a change over time. An empirical example is used showing the effects of the COVID-19 lockdowns on math scores of primary school children. 

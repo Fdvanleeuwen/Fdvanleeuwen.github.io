@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Empirical Evidence That There Is No Such Thing As A Validated Prediction Model"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-06-01-no-validated-prediction-model
+excerpt: 'This paper presents empirical evidence challenging the notion of a universally validated prediction model.'
+date: 2024-06-01
+venue: 'arXiv preprint'
+slidesurl: ''
+paperurl: 'http://fdvanleeuwen.github.io/files/Predint_Arxiv-2.pdf'
+citation: 'van Leeuwen, F. D., Steyerberg, E. W., van Klaveren, D., Wessler, B., Kent, D. M., & van Zwet, E. W. (2024). "Empirical Evidence That There Is No Such Thing As A Validated Prediction Model." <i>arXiv preprint</i>, arXiv:2406.08628.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In the paper we show that there is a lot of heterogeneity between the performance measure AUC in external validations of the same clinical prediction model. This heterogeneity cannot be estimates well if there are only a couple of external validations, in those cases the predicition interval around the AUC will be to slim. A way to fix this problem is to use a prior for the heterogeneity.
