@@ -11,47 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics focused on prediction models, Utrecht University, 2024 - Now
+* M.S. in Statistics (Cum laude), Utrecht University, 2021-2023
+* B.S. in Natural and Social Sciences, University of Amsterdam, 2018-2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Visiting Researcher
+  * Moberg analytics, Philadelphia, USA
+  * Supervisors: Dick moberg, Ethan Moyer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023 - 2024: Researcher
+  * Leiden University Medical Center 
+  * Supervisors: Ewout Steyerberg, Erik van Zwet
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2023: Researcher, part-time
+  * SEO Amsterdam Economics
+  * Focus on financial markets. 
+
+* 2017 - 2020: (online) poker player
+  * Top 0.5% of tournament players for the years 2019 and 2020
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -59,6 +45,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
