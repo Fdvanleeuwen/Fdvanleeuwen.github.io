@@ -1,7 +1,7 @@
 ---
 title: "Empirical Evidence That There Is No Such Thing As A Validated Prediction Model"
 collection: publications
-category: Pre-prints
+category: preprint
 permalink: /publication/2024-06-01-no-validated-prediction-model
 excerpt: 'This paper presents empirical evidence challenging the notion of a universally validated prediction model.'
 date: 2024-06-01
