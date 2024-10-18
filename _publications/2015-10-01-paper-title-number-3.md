@@ -1,7 +1,7 @@
 ---
 title: "TILTomorrow today: Dynamic factors predicting changes in intracranial pressure treatment intensity after traumatic brain injury"
 collection: publications
-category: manuscripts
+category: Pre-prints
 permalink: /publication/2024-05-01-tiltomorrow-dynamic-factors-icp
 excerpt: 'This paper investigates dynamic factors predicting changes in intracranial pressure treatment intensity after traumatic brain injury.'
 date: 2024-05-01
